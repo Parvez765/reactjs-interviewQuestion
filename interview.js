@@ -58,3 +58,6 @@ According to the React docs, most people find it helpful as a visual aid when wo
 JSX also allows React to show more useful error and warning messages.
 If one is familiar with HTML, it is quite easy to use JSX when building React application
 Faster than normal JavaScript as it performs optimizations while translating to regular JavaScript.
+
+
+
