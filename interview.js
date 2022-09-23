@@ -43,3 +43,9 @@ another function to update this value.
 
  What is the difference between attribute and property?
  Answer- Attributes are defined by HTML. Properties are defined by the DOM. The value of an attribute is constant. The value of a property is variable.
+
+ 
+ Note---
+ 
+ ***Elements are the smallest building blocks of React apps
+ ***Props are Read-Only we can not change it's value to it's Children
