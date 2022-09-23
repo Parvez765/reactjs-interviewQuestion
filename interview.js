@@ -60,6 +60,8 @@ If one is familiar with HTML, it is quite easy to use JSX when building React ap
 Faster than normal JavaScript as it performs optimizations while translating to regular JavaScript.
 
 
+Difference Between Real Dom And Virtual Dom
+
 Real DOM
 
 DOM manipulation is very expensive
