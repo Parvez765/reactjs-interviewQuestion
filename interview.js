@@ -60,4 +60,24 @@ If one is familiar with HTML, it is quite easy to use JSX when building React ap
 Faster than normal JavaScript as it performs optimizations while translating to regular JavaScript.
 
 
+Real DOM
 
+DOM manipulation is very expensive
+There is too much memory wastage
+It updates Slow	
+It can directly update HTML
+Creates a new DOM if the element updates.
+It allows us to directly target any specific node (HTML element)
+It represents the Ul of your application	
+
+
+Virtual DOM
+
+DOM manipulation is very easy 
+No memory wastage 
+It updates fast
+It can’t update HTML directly 
+Update the JSX if the element update 
+It can produce about 200,000 Virtual DOM
+Nodes / Second.
+It is only a virtual representation of the DOM
