@@ -49,3 +49,12 @@ another function to update this value.
  
  ***Elements are the smallest building blocks of React apps
  ***Props are Read-Only we can not change it's value to it's Children
+ 
+ 
+JSX has the following advantages:
+
+JSX helps us in keeping our code simpler and elegant when writing large pieces of code.
+According to the React docs, most people find it helpful as a visual aid when working with UI inside the JavaScript code.
+JSX also allows React to show more useful error and warning messages.
+If one is familiar with HTML, it is quite easy to use JSX when building React application
+Faster than normal JavaScript as it performs optimizations while translating to regular JavaScript.
